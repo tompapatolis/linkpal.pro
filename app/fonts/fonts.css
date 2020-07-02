@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Encode Sans Condensed';
+    src: url('EncodeSansCondensed-Light.woff2') format('woff2'),
+        url('EncodeSansCondensed-Light.woff') format('woff'),
+        url('EncodeSansCondensed-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Condensed';
+    src: url('EncodeSansCondensed-Medium.woff2') format('woff2'),
+        url('EncodeSansCondensed-Medium.woff') format('woff'),
+        url('EncodeSansCondensed-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+

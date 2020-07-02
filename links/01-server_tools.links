@@ -1,0 +1,5 @@
+http://[::1]/;Localhost;Local Web Server;important
+http://localhost/phpmyadmin/;PhpMyAdmin;MySQL Management;important
+http://localhost/phpmyadmin/;Hawkhost;Hosting Provider
+https://tomsnews.net/cpanel;Tomsnews Cpanel;Hosting Management
+https://verdin.io/cpanel;Verdin Cpanel;Hosting Management
