@@ -1,5 +1,7 @@
 http://[::1]/;Localhost;Local Web Server;important
 http://localhost/phpmyadmin/;PhpMyAdmin;MySQL Management;important
-http://localhost/phpmyadmin/;Hawkhost;Hosting Provider
+https://www.hawkhost.com/;Hawkhost;Hosting Provider
 https://tomsnews.net/cpanel;Tomsnews Cpanel;Hosting Management
 https://verdin.io/cpanel;Verdin Cpanel;Hosting Management
+http://192.168.2.1/;Router;Telekom Router
+http://192.168.2.121/;Access Point;TP Link
