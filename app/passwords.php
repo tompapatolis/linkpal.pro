@@ -1,4 +1,4 @@
-<h3 class="darker-title">Passwords</h3>
+<div class="gen-title">Passwords</div>
 <div class="passbox">
 	<input type="text" class="input-text" value="<?=passgen(8,false)?>" readonly title="8 Character">
 	<input type="text" class="input-text" value="<?=passgen(15,false)?>" readonly title="15 Character">

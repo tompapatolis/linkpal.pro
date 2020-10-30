@@ -5,11 +5,12 @@
 <ul class="link">
 
 	<?php foreach ($links as $item):?>
-		<li class="group-title"><h3><?=$item['category']?></h3></li>
+		<li class="category"><?=$item['category']?></li>
 
 		<?php foreach ($item['links'] as $link):?>
-			<li><a href="<?=$link['url']?>" class="<?=($link['important']?'important':'')?>" rel="nofollow"><?=$link['label']?></a>
-				<span><?=$link['description']?></span>
+			<li><a href="<?=$link['url']?>" class="<?=($link['important']?'important':'')?>" rel="nofollow">
+				<div class="label"><?=$link['label']?></div>
+				<div class="description"><?=$link['description']?></div></a>
 			</li>			
 		<?php endforeach;?>
 

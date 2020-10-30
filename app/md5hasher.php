@@ -1,4 +1,4 @@
-<h3 class="darker-title">MD5 Hasher</h3>
+<div class="gen-title">MD5 Hasher</div>
 <form action="index.php" method="post">
 	<?php if(isset($_POST['md5text'])):?>
 		<input type="text" class="input-text wide" value="<?=md5($_POST['md5text']);?>" readonly>	
