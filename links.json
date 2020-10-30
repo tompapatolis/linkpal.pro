@@ -1,0 +1,161 @@
+[
+{
+	"category" : "Servers",
+	"order" : 1,
+	"links" : [
+		{"url":"http://[::1]/","label":"Localhost","description":"Local Web Server","important": true},
+		{"url":"http://localhost/phpmyadmin/","label":"PhpMyAdmin","description":"MySQL Management","important": true},
+		{"url":"https://www.hawkhost.com/","label":"Hawkhost","description":"Hosting Provider","important": false},
+		{"url":"https://tomsnews.net/cpanel","label":"Tomsnews Cpanel","description":"Hosting Management","important": false},
+		{"url":"https://verdin.io/cpanel","label":"Verdin Cpanel","description":"Hosting Management","important": false},
+		{"url":"http://192.168.2.1/","label":"Router","description":"Telekom Router","important": false},
+		{"url":"http://192.168.2.121/","label":"Access Point","description":"TP Link","important": false}
+	]
+},
+{
+	"category" : "Projects",
+	"order" : 2,
+	"links" : [
+		{"url":"https://tomsnews.io/","label":"tomsnews.io","description":"My Sexy Blog","important": true},
+		{"url":"https://verdin.io/","label":"verdin.io","description":"My Portfolio","important": true},
+		{"url":"https://jsoncontent.com/","label":"JSONcontent","description":"Million Dollar Company","important": true},
+		{"url":"https://links.verdin.io/","label":"JSON Linkpal","description":"links.verdin.io","important": false},
+		{"url":"https://linkpal.tomsnews.net/","label":"Linkpal Pro","description":"Linkpal Greek Edition","important": false}
+	]
+},
+{
+	"category" : "Online Tools",
+	"order" : 3,
+	"links" : [
+		{"url":"https://squoosh.app/","label":"Squoosh.app","description":"Transform to WebP","important": false},
+		{"url":"https://transfonter.org/","label":"Transfonter","description":"Useful tool to create Font Kits","important": true},
+		{"url":"https://getwaves.io/","label":"Get Waves","description":"Create cool dividers","important": false},
+		{"url":"https://bennettfeely.com/clippy/","label":"Clippy","description":"Create Clip Paths","important": true},
+		{"url":"https://www.favicon-generator.org/","label":"Favicon Generator","description":"Create Favicons","important": true},
+		{"url":"https://convertico.com/","label":"ConvertIco","description":"Convert PNG to Icon","important": true},
+		{"url":"http://www.noisetexturegenerator.com/","label":"Noise Texture Generator","description":"Noise Texture Generator","important": false},
+		{"url":"http://www.stripegenerator.com/","label":"Stripe Generator","description":"Stripe Generator","important": false},
+		{"url":"http://bg.siteorigin.com/","label":"Background Image","description":"Background Image Generator","important": false},
+		{"url":"http://paletton.com/","label":"Paletton","description":"Nice Palette Generator","important": true},
+		{"url":"https://www.lipsum.com/","label":"Lorem Ipsum","description":"Random Text Generator","important": false},
+		{"url":"http://bugmenot.com/","label":"BugMeNot","description":"Logins for sites","important": true},
+		{"url":"https://codeconverter.icsharpcode.net/","label":"Code Converter","description":"C# to VB.NET","important": false},
+		{"url":"https://primacartoonizer.com/Prima-Cartoonizer/","label":"Cartoonizer","description":"Prima Cartoonizer","important": true},
+		{"url":"http://www.get-youtube-thumbnail.com/","label":"YouTube Thumbnail","description":"YouTube Thumbnail Grabber","important": true},
+		{"url":"https://www.seobility.net/en/seocheck/","label":"Seobility Check","description":"SEO Tester","important": true},
+		{"url":"https://jsonplaceholder.typicode.com/","label":"JSON Placeholder","description":"JSON Placeholder","important": true},
+		{"url":"https://app.diagrams.net/","label":"Draw.io","description":"Create Cool Diagrams","important": true}
+	]
+},
+{
+	"category" : "Resources",
+	"order" : 4,
+	"links" : [
+		{"url":"https://pexels.com/","label":"Pexels","description":"Free Photos","important": true},
+		{"url":"https://pixabay.com/","label":"Pixabay","description":"Free Photos","important": true},
+		{"url":"https://www.flickr.com/photos/spacex/","label":"SpaceX Photos","description":"SpaceX Flickr","important": true},
+		{"url":"https://unsplash.com/","label":"Unsplash","description":"Unsplash Photos","important": true},
+		{"url":"https://zavoloklom.github.io/material-design-iconic-font/icons.html","label":"Material Iconic","description":"Icon Set Font","important": true},
+		{"url":"https://fonts.google.com/","label":"Google Fonts","description":"Fonts for your site","important": true},
+		{"url":"https://www.flaticon.com/","label":"Flaticon","description":"Great resource for flat icons","important": true},
+		{"url":"http://www.fontsquirrel.com/","label":"Font Squirrel","description":"Fonts","important": false},
+		{"url":"http://www.1001fonts.com/","label":"1001 Font","description":"Fonts","important": false},
+		{"url":"http://iconmonstr.com/","label":"Icon Monster","description":"Nice Flat Icons","important": true},
+		{"url":"https://www.freepik.com/","label":"Freepik","description":"Graphic Resources","important": false},
+		{"url":"https://www.psdgraphics.com/","label":"PSD Graphics","description":"Photoshop PSDs","important": false},
+		{"url":"https://www.iconspedia.com/","label":"Iconspedia","description":"Ancient Icons Website","important": false},
+		{"url":"https://www.psdvault.com/","label":"PSD Vault","description":"Photoshop PSDs","important": false},
+		{"url":"https://icons8.com/preloaders/","label":"Preloaders","description":"Ajax Preloaders","important": false},
+		{"url":"http://getintopc.com/","label":"GetIntoPC","description":"Trial Software","important": true},
+		{"url":"https://colorsinspo.com/","label":"Colors Inspo","description":"Stunning Color Palettes","important": true},
+		{"url":"https://www.freesfx.co.uk/","label":"FreeSFX","description":"Free Sounds","important": false},
+		{"url":"https://freeplaymusic.com/","label":"FreePlayMusic","description":"Free Music","important": false},
+		{"url":"http://www.bensound.com/","label":"Ben Sound","description":"Free Sounds","important": false},
+		{"url":"http://soundbible.com/","label":"Sound Bible","description":"Free Sounds","important": false},
+		{"url":"https://www.findsounds.com/","label":"Find Sounds","description":"Sounds Search","important": false},
+		{"url":"http://www.carwalls.com/","label":"Car Walls","description":"Car Wallpapers","important": false},
+		{"url":"https://www.brandsoftheworld.com/","label":"Bands Of World","description":"Logos Database","important": true},
+		{"url":"https://www.name.com/domain-suggestions","label":"Domain Suggestions","description":"Tool Suggesting Domains","important": false}
+	]
+},
+{
+	"category" : "Social Media",
+	"order" : 5,
+	"links" : [
+		{"url":"https://twitter.com/tpapatolis","label":"Twitter","description":"Tom's Twitter account","important": true},
+		{"url":"https://www.facebook.com/tomsnewsnet","label":"Facebook","description":"Tom's Facebook account","important": false},
+		{"url":"https://github.com/tompapatolis","label":"GitHub","description":"Tom's Github","important": true},
+		{"url":"https://www.facebook.com/verdinlimited/","label":"Verdin Facebook","description":"Verdin Facebook Page","important": false},	
+		{"url":"https://www.deviantart.com/tpapatolis","label":"DeviantArt","description":"Tom's DeviantArt Profile","important": false}
+	]
+},
+{
+	"category" : "Office",
+	"order" : 6,
+	"links" : [
+		{"url":"https://mail.google.com/","label":"Gmail","description":"My Email","important": true},
+		{"url":"https://docs.google.com/spreadsheets/u/0/","label":"Google Sheets","description":"Google Sheets","important": true},
+		{"url":"https://docs.google.com/document/u/0/","label":"Google Docs","description":"Google Docs","important": false},
+		{"url":"https://keep.google.com/","label":"Google Keep","description":"My Notes","important": true},
+		{"url":"https://calendar.google.com/","label":"Google Calendar","description":"My Calendar","important": false},
+		{"url":"https://drive.google.com/drive/my-drive","label":"Google Drive","description":"Google Drive","important": false},
+		{"url":"https://www.dropbox.com/h","label":"Dropbox","description":"Cloud Drive","important": true}
+	]
+},
+{
+	"category" : "News",
+	"order" : 7,
+	"links" : [
+		{"url":"https://www.worldometers.info/coronavirus/","label":"Worldometer","description":"Coronavirus Cases Worldwide","important": true},
+		{"url":"https://www.welt.de/","label":"Die Welt","description":"German Newspaper","important": true},
+		{"url":"https://www.zeit.de/","label":"Zeit Online","description":"German Newspaper","important": false},
+		{"url":"https://www.reuters.com/","label":"Reuters","description":"News Agency","important": false},
+		{"url":"http://enikos.gr/","label":"Enikos","description":"enikos.gr","important": false},
+		{"url":"https://www.zerohedge.com/","label":"Zero Hedge","description":"Zero Hedge","important": false},
+		{"url":"http://www.businessinsider.com/","label":"Business Insider","description":"businessinsider.com","important": false},
+		{"url":"http://www.cnn.gr/","label":"CNN Greece","description":"CNN Propaganda Greek Edition","important": false},
+		{"url":"https://www.ksipnistere.com/","label":"KsipnisteRe","description":"ksipnistere.com","important": false}
+	]
+},
+{
+	"category" : "Libraries & Frameworks",
+	"order" : 8,
+	"links" : [
+		{"url":"https://getmdl.io/started/","label":"Material Design Lite","description":"CSS Framework","important": true},
+		{"url":"https://editorjs.io/","label":"Editor JS","description":"JSON Wysiwyg Editor","important": true},
+		{"url":"https://www.codeigniter.com/","label":"Codeigniter","description":"Best PHP Framework Ever","important": false},
+		{"url":"https://daneden.github.io/animate.css/","label":"AnimateCSS","description":"CSS Library","important": false},
+		{"url":"http://getbootstrap.com/","label":"Bootstrap","description":"CSS Framework","important": false}
+	]
+},
+{
+	"category" : "Fun & Shopping",
+	"order" : 9,
+	"links" : [
+		{"url":"https://www.amazon.de/","label":"Amazon","description":"Shop yourself to death","important": true},
+		{"url":"https://www.ebay.de/","label":"Ebay","description":"Shop used crap","important": false},
+		{"url":"https://www.youtube.com/","label":"YouTube","description":"Watch Videos","important": true},		
+		{"url":"https://www.wish.com/","label":"Wish","description":"Shitty China Crap","important": false},
+		{"url":"http://www.mobile.de/","label":"Mobile","description":"Cars in Germany","important": false},
+		{"url":"http://www.kalaydo.de/","label":"Kalaydo","description":"Online Thrift Store","important": false},
+		{"url":"http://www.moemax.de/","label":"Mömax","description":"Nice Furniture in Germany","important": false},
+		{"url":"https://www.trends.de/","label":"Trends","description":"Nice Furniture in Germany","important": false},
+		{"url":"http://www.saturn.de/","label":"Saturn","description":"Electronics Store","important": false},
+		{"url":"http://www.ikea.com/de/de/","label":"IKEA Germany","description":"Do it yourself","important": true},
+		{"url":"http://petas.gr/","label":"Petas","description":"Petas.gr Airtickets","important": true},
+		{"url":"http://el.aegeanair.com/","label":"Aegean Air","description":"Greek Airlines","important": false},		
+		{"url":"http://www.booking.com/","label":"Booking","description":"Hotels","important": true},
+		{"url":"https://schulverpflegung-duesseldorf.webmenue.info/login.aspx","label":"WebMenu","description":"Order Menu","important": true}
+	]
+},
+{
+	"category" : "Radios",
+	"order" : 10,
+	"links" : [
+		{"url":"http://live24.gr/radio/kissfm","label":"Kiss FM 92.9","description":"Great radio in Athens","important": true},
+		{"url":"http://www.e-radio.gr/We-Radio-894-Thessaloniki-i632/live","label":"We Radio 894","description":"Radio in Thessaloniki","important": false}
+	]
+}
+
+
+]

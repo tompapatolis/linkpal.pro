@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Linkpal Pro</title>
+	<title>Linkpal JSON</title>
 	<link rel="stylesheet" href="app/fonts/fonts.css">
 	<link rel="stylesheet" href="style.min.css">
 	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,300;1,400&display=swap" rel="stylesheet">

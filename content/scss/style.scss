@@ -1,4 +1,9 @@
 @import 'reboot';
+
+/**
+ * Global Styles
+ */
+
 body {
 	font-family: 'Encode Sans Condensed', sans-serif;
 	font-size: 18px;
@@ -16,6 +21,13 @@ h1,h2,h3,h4,h5,h6 {font-weight: 500;line-height: 1.5rem;margin:0;padding:0;}
 
 a {color: lighten(#868E96,9);}
 a:hover, a:focus {text-decoration: none; }
+
+/**
+ * Link Buttons
+ */
+
+// grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+// grid-column: 1 / -1;
 
 ul.link {
 	margin:0;padding:0;list-style:none;
@@ -45,6 +57,10 @@ ul.link {
 	}
 }
 
+/**
+ * Passwords
+ */
+
 input.input-text {
 	font-size: .8rem;padding: 0 .5rem;
 	border: 1px solid #494e54;
@@ -71,6 +87,10 @@ input.button {
 }
 
 h3.darker-title {padding: 2rem 0 .25rem 0;color:lighten(#494e54,20);}
+
+/**
+ * Media Queries
+ */
 
 @media(max-width: 768px) {
 	body {padding: .5rem;}
