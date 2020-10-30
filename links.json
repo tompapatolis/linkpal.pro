@@ -74,7 +74,7 @@
 		{"url":"http://soundbible.com/","label":"Sound Bible","description":"Free Sounds","important": false},
 		{"url":"https://www.findsounds.com/","label":"Find Sounds","description":"Sounds Search","important": false},
 		{"url":"http://www.carwalls.com/","label":"Car Walls","description":"Car Wallpapers","important": false},
-		{"url":"https://www.brandsoftheworld.com/","label":"Bands Of World","description":"Logos Database","important": true},
+		{"url":"https://www.brandsoftheworld.com/","label":"Brands Of World","description":"Logos Database","important": true},
 		{"url":"https://www.name.com/domain-suggestions","label":"Domain Suggestions","description":"Tool Suggesting Domains","important": false}
 	]
 },
