@@ -2,21 +2,21 @@
 <?php require_once('app/html_header.php');?>
 <?php $links = getJSON()?>
 
-<ul class="link">
+<div class="links">
 
 	<?php foreach ($links as $item):?>
-		<li class="category"><?=$item['category']?></li>
+		<div class="category"><?=$item['category']?></div>
 
 		<?php foreach ($item['links'] as $link):?>
-			<li><a href="<?=$link['url']?>" class="<?=($link['important']?'important':'')?>" rel="nofollow">
+			<a href="<?=$link['url']?>" class="<?=($link['important']?'important':'')?>" rel="nofollow">
 				<div class="label"><?=$link['label']?></div>
-				<div class="description"><?=$link['description']?></div></a>
-			</li>			
+				<div class="description"><?=$link['description']?></div>
+			</a>
+			
 		<?php endforeach;?>
-
 	<?php endforeach;?>
 
-</ul>
+</div>
 
 <?php require_once('app/passwords.php');?>
 <?php require_once('app/md5hasher.php');?>
