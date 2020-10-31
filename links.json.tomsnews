@@ -1,0 +1,203 @@
+[
+{
+	"category" : "Projects",
+	"order" : 1,
+	"links" : [
+		{"url":"https://tomsnews.io/","label":"tomsnews.io","description":"My Sexy Blog","important": true},
+		{"url":"https://verdin.io/","label":"verdin.io","description":"My Portfolio","important": true},
+		{"url":"https://jsoncontent.com/","label":"JSONcontent","description":"Million Dollar Company","important": true},
+		{"url":"https://links.verdin.io/","label":"JSON Linkpal","description":"links.verdin.io","important": false},
+		{"url":"https://linkpal.tomsnews.net/","label":"Linkpal Pro","description":"Linkpal Greek Edition","important": false}
+	]
+},
+{
+	"category" : "Office",
+	"order" : 2,
+	"links" : [
+		{"url":"https://mail.google.com/","label":"Gmail","description":"My Email","important": true},
+		{"url":"https://docs.google.com/spreadsheets/u/0/","label":"Google Sheets","description":"Google Sheets","important": true},
+		{"url":"https://docs.google.com/document/u/0/","label":"Google Docs","description":"Google Docs","important": false},
+		{"url":"https://keep.google.com/","label":"Google Keep","description":"My Notes","important": true},
+		{"url":"https://calendar.google.com/","label":"Google Calendar","description":"My Calendar","important": false},
+		{"url":"https://drive.google.com/drive/my-drive","label":"Google Drive","description":"Google Drive","important": false},
+		{"url":"https://www.dropbox.com/h","label":"Dropbox","description":"Cloud Drive","important": true}
+	]
+},
+{
+	"category" : "Social Media",
+	"order" : 3,
+	"links" : [
+		{"url":"https://twitter.com/tpapatolis","label":"Twitter","description":"Tom's Twitter account","important": true},
+		{"url":"https://www.facebook.com/tomsnewsnet","label":"Facebook","description":"Tom's Facebook account","important": false},
+		{"url":"https://github.com/tompapatolis","label":"GitHub","description":"Tom's Github","important": true},
+		{"url":"https://www.facebook.com/verdinlimited/","label":"Verdin Facebook","description":"Verdin Facebook Page","important": false},	
+		{"url":"https://www.deviantart.com/tpapatolis","label":"DeviantArt","description":"Tom's DeviantArt Profile","important": false}
+	]
+},
+{
+	"category" : "Resources",
+	"order" : 4,
+	"links" : [
+		{"url":"https://pixabay.com/","label":"Pixabay","description":"Free Photos","important": false},
+		{"url":"https://fonts.google.com/","label":"Google Fonts","description":"Fonts for your site","important": false},
+		{"url":"https://www.flaticon.com/","label":"Flaticon","description":"Great resource for flat icons","important": false},
+		{"url":"http://www.fontsquirrel.com/","label":"Font Squirrel","description":"Fonts ","important": false},
+		{"url":"http://www.1001fonts.com/","label":"1001 Fonts","description":"Fonts ","important": false},
+		{"url":"http://iconmonstr.com/","label":"Icon Monster","description":"Nice Flat Icons ","important": false},
+		{"url":"https://www.freepik.com/","label":"Freepik","description":"Graphic Resources ","important": false},
+		{"url":"https://www.psdgraphics.com/","label":"PSD Graphics","description":"Photoshop PSDs ","important": false},
+		{"url":"https://www.iconspedia.com/","label":"Iconspedia","description":"Ancient Icons Website ","important": false},
+		{"url":"https://www.psdvault.com/","label":"PSD Vault","description":"Photoshop PSDs ","important": false},
+		{"url":"https://icons8.com/preloaders/","label":"Preloaders","description":"Ajax Preloaders ","important": false},
+		{"url":"http://getintopc.com/","label":"GetIntoPC","description":"Software","important": false},
+		{"url":"https://colorsinspo.com/","label":"Colors Inspo","description":"Stunning Color Palettes","important": false},
+		{"url":"https://www.freesfx.co.uk/","label":"FreeSFX","description":"Free Sounds ","important": false},
+		{"url":"https://freeplaymusic.com/","label":"FreePlayMusic","description":"Free Music ","important": false},
+		{"url":"http://www.bensound.com/","label":"Ben Sound","description":"Free Sounds ","important": false},
+		{"url":"http://soundbible.com/","label":"Sound Bible","description":"Free Sounds ","important": false},
+		{"url":"https://www.findsounds.com/","label":"Find Sounds","description":"Sounds Search ","important": false},
+		{"url":"http://www.carwalls.com/","label":"Car Walls","description":"Car Wallpapers ","important": false},
+		{"url":"https://www.brandsoftheworld.com/","label":"Bands Of World","description":"Logos Database ","important": false},
+		{"url":"https://www.name.com/domain-suggestions","label":"Domain Suggestions","description":"Tool Suggesting Domains","important": false}
+	]
+},
+{
+	"category" : "Fun & Shopping",
+	"order" : 5,
+	"links" : [
+		{"url":"http://live24.gr/radio/kissfm","label":"Kiss FM 92.9","description":"Great radio in Athens","important": false},
+		{"url":"http://freestream.nmdn.net/radioplayer/antennedus/","label":"Antenne Düsseldorf","description":"German Radio ","important": false},
+		{"url":"http://sokfm.gr/listenlive/dalkas.php#.WzExoaczYaY","label":"Dalkas FM","description":"Greek Radio for Ouzo ","important": false},
+		{"url":"http://www.derti.gr/","label":"Derti FM","description":"Greek Radio for Ouzo ","important": false},
+		{"url":"https://www.youtube.com/","label":"YouTube","description":"Watch Videos","important": false},
+		{"url":"https://www.amazon.de/","label":"Amazon","description":"Shop yourself to death","important": false},
+		{"url":"https://www.ebay.de/","label":"Ebay","description":"Shop used crap","important": false},
+		{"url":"https://www.wish.com/","label":"Wish","description":"China Crap ","important": false},
+		{"url":"http://www.mobile.de/","label":"Mobile","description":"Cars in Germany ","important": false},
+		{"url":"http://www.kalaydo.de/","label":"Kalaydo","description":"Online Thrift Store ","important": false},
+		{"url":"http://www.moemax.de/","label":"Mömax","description":"Nice Furniture in Germany ","important": false},
+		{"url":"https://www.trends.de/","label":"Trends","description":"Nice Furniture in Germany ","important": false},
+		{"url":"http://www.saturn.de/","label":"Saturn","description":"Electronics Store ","important": false},
+		{"url":"http://www.ikea.com/de/de/","label":"IKEA Germany","description":"Do it yourself","important": false},
+		{"url":"http://petas.gr/","label":"Petas","description":"Petas.gr Airtickets","important": false},
+		{"url":"http://el.aegeanair.com/","label":"Aegean Air","description":"Greek Airlines ","important": false},
+		{"url":"http://www.booking.com/","label":"Booking","description":"Hotels","important": false},
+		{"url":"https://www.mcdonalds.de/produkte/gutscheine","label":"Mc Donalds Coupons","description":"Shit storm food","important": false}
+	]
+},
+{
+	"category" : "Greek News",
+	"order" : 6,
+	"links" : [
+		{"url":"https://tomsnews.net/","label":"Tomsnews","description":"My Blog since 1992","important": false},
+		{"url":"http://www.olympia.gr/","label":"Olympia","description":"Olympia.gr ","important": false},
+		{"url":"http://zoornalistas.blogspot.com/","label":"Zoornalistas","description":"zoornalistas.blogspot.com ","important": false},
+		{"url":"http://ksipnistere.com/","label":"KsipnisteRe","description":"ksipnistere.com ","important": false},
+		{"url":"https://taxalia.blogspot.com/","label":"Ta Xalia","description":"taxalia.blogspot.com ","important": false},
+		{"url":"http://www.press-gr.com/","label":"Press24","description":"press-gr.com ","important": false},
+		{"url":"http://www.tvxs.gr/","label":"TVXS","description":"tvxs.gr ","important": false},
+		{"url":"http://www.tovima.gr/","label":"To Vima","description":"tovima.gr ","important": false},
+		{"url":"http://www.kathimerini.gr/","label":"Kathimerini","description":"kathimerini.gr ","important": false},
+		{"url":"http://fimotro.gr/","label":"Fimotro","description":"fimotro.gr ","important": false},
+		{"url":"http://perierga.gr/","label":"Perierga","description":"perierga.gr ","important": false},
+		{"url":"http://freepen.gr/","label":"Freepen","description":"freepen.gr ","important": false},
+		{"url":"https://www.protothema.gr/","label":"Proto Thema","description":"protothema.gr ","important": false},
+		{"url":"http://www.pentapostagma.gr/","label":"Pentapostagma","description":"pentapostagma.gr ","important": false},
+		{"url":"http://www.news247.gr/","label":"News 247","description":"news247.gr ","important": false},
+		{"url":"http://www.zougla.gr/","label":"Zougla","description":"zougla.gr ","important": false},
+		{"url":"https://www.tromaktiko.gr/","label":"Tromaktiko","description":"tromaktiko.gr ","important": false},
+		{"url":"http://www.newsit.gr/","label":"NewsIt","description":"newsit.gr ","important": false},
+		{"url":"https://thecaller.gr/","label":"The Caller","description":"thecaller.gr ","important": false},
+		{"url":"http://www.newsbomb.gr/","label":"News Bomb","description":"newsbomb.gr ","important": false},
+		{"url":"https://www.insomnia.gr/","label":"Insomnia","description":"www.insomnia.gr ","important": false},
+		{"url":"http://www.iefimerida.gr/","label":"I Efimerida","description":"iefimerida.gr ","important": false},
+		{"url":"https://www.tribune.gr","label":"Tribune","description":"tribune.gr ","important": false},
+		{"url":"http://newpost.gr/","label":"New Post","description":"newpost.gr ","important": false},
+		{"url":"http://www.koutipandoras.gr/","label":"To kouti tis Pandoras","description":"koutipandoras.gr ","important": false},
+		{"url":"http://madata.gr/","label":"Madata","description":"madata.gr ","important": false},
+		{"url":"http://www.topontiki.gr/","label":"To Pontiki","description":"topontiki.gr ","important": false},
+		{"url":"http://www.parapolitika.gr/","label":"Parapolitika","description":"parapolitika.gr ","important": false},
+		{"url":"http://www.newsbeast.gr/","label":"News Beast","description":"newsbeast.gr ","important": false},
+		{"url":"http://meteo.gr/","label":"Meteo","description":"meteo.gr ","important": false},
+		{"url":"http://www.pronews.gr/portal/","label":"Pronews","description":"pronews.gr/portal ","important": false},
+		{"url":"http://www.thetoc.gr/","label":" The Toc","description":"thetoc.gr ","important": false},
+		{"url":"http://www.gazzetta.gr/","label":"Gazzetta","description":"gazzetta.gr ","important": false},
+		{"url":"http://www.iatronet.gr/","label":"Iatronet","description":"iatronet.gr ","important": false},
+		{"url":"http://www.iatropedia.gr/","label":"Iatropedia","description":"iatropedia.gr ","important": false},
+		{"url":"https://www.naftemporiki.gr/","label":"Naftemporiki","description":"www.naftemporiki.gr ","important": false},
+		{"url":"http://www.bankingnews.gr/","label":"Banking News","description":"bankingnews.gr ","important": false},
+		{"url":"http://www.newmoney.gr/","label":"New Money","description":"newmoney.gr ","important": false},
+		{"url":"http://www.euro2day.gr/","label":"Euro 2day","description":"euro2day.gr ","important": false},
+		{"url":"http://enikos.gr/","label":"Enikos","description":"enikos.gr ","important": false},
+		{"url":"http://thestival.gr/","label":"Thestival","description":"thestival.gr ","important": false},
+		{"url":"http://www.freecity.gr/","label":"Free City","description":"freecity.gr ","important": false},
+		{"url":"https://www.cretalive.gr/","label":"Creta Live","description":"www.cretalive.gr ","important": false},
+		{"url":"http://www.crashonline.gr/","label":"Crash Online","description":"crashonline.gr ","important": false},
+		{"url":"https://www.digitallife.gr/","label":"Digital Life","description":"www.digitallife.gr ","important": false},
+		{"url":"http://www.antinews.gr/","label":"Antinews","description":"antinews.gr ","important": false},
+		{"url":"http://www.alfavita.gr/","label":"Alfavita","description":"alfavita.gr ","important": false},
+		{"url":"https://www.altsantiri.gr/","label":"Altsantiri","description":"www.altsantiri.gr ","important": false},
+		{"url":"http://www.kourdistoportocali.com/","label":"Kourdisto Portokali","description":"kourdistoportocali.com ","important": false},
+		{"url":"http://www.tilestwra.com/","label":"Tiles Twra","description":"tilestwra.com ","important": false},
+		{"url":"http://www.real.gr/","label":"Real","description":"real.gr ","important": false},
+		{"url":"http://www.rizopoulospost.com/","label":"Rizopoulos Post","description":"rizopoulospost.com ","important": false},
+		{"url":"http://www.makeleio.gr/","label":"Makeleio","description":"makeleio.gr ","important": false},
+		{"url":"http://www.athensvoice.gr/","label":"Athens Voice","description":"athensvoice.gr ","important": false},
+		{"url":"http://katohika.gr/","label":"Katoxika","description":"katohika.gr ","important": false},
+		{"url":"http://www.in.gr/","label":"In","description":"in.gr ","important": false},
+		{"url":"http://www.cnn.gr/","label":"CNN Greece","description":"cnn.gr ","important": false},
+		{"url":"http://www.huffingtonpost.gr/","label":"Huffington Post","description":"huffingtonpost.gr","important": false}
+	]
+},
+{
+	"category" : "International News",
+	"order" : 7,
+	"links" : [
+		{"url":"https://www.zerohedge.com/","label":"Zero Hedge","description":"Zero Hedge","important": false},
+		{"url":"https://www.bloomberg.com/","label":"Bloomberg","description":"bloomberg.com ","important": false},
+		{"url":"http://www.stratfor.com/","label":"Stratfor","description":"stratfor.com","important": false},
+		{"url":"http://rt.com/","label":"Russia Today","description":"rt.com","important": false},
+		{"url":"http://edition.cnn.com/","label":"CNN","description":"edition.cnn.com ","important": false},
+		{"url":"http://www.infowars.com/","label":"InfoWars","description":"infowars.com ","important": false},
+		{"url":"http://www.businessinsider.com/","label":"Business Insider","description":"businessinsider.com","important": false},
+		{"url":"http://www.telegraph.co.uk/","label":"Telegraph","description":"telegraph.co.uk ","important": false},
+		{"url":"http://www.bbc.co.uk/","label":"BBC","description":"bbc.co.uk ","important": false},
+		{"url":"http://www.reuters.com/","label":"Reuters","description":"reuters.com","important": false},
+		{"url":"http://english.pravda.ru/","label":"Pravda","description":"english.pravda.ru ","important": false},
+		{"url":"http://www.infoworld.com/","label":"InfoWorld","description":"infoworld.com ","important": false},
+		{"url":"http://www.lemonde.fr/","label":"Le Monde","description":"lemonde.fr ","important": false},
+		{"url":"http://www.guardian.co.uk/","label":"Guardian","description":"guardian.co.uk","important": true}
+	]
+},
+{
+	"category" : "German News",
+	"order" : 8,
+	"links" : [
+		{"url":"https://www.bild.de/","label":"Bild","description":"bild.de","important": false},
+		{"url":"https://www.heise.de/","label":"Heise","description":"heise.de","important": false},
+		{"url":"https://www.focus.de/","label":"Focus","description":"focus.de ","important": false},
+		{"url":"http://www.spiegel.de/","label":"Spiegel","description":"spiegel.de ","important": false},
+		{"url":"https://www.stern.de/","label":"Stern","description":"stern.de ","important": false},
+		{"url":"https://www.welt.de/","label":"Die Welt","description":"welt.de ","important": false},
+		{"url":"http://www.faz.net/aktuell/","label":"FAZ","description":"faz.net/aktuell ","important": false},
+		{"url":"http://www.zeitung.de/","label":"Zeitung","description":"zeitung.de ","important": false},
+		{"url":"https://www.express.de/","label":"Express","description":"express.de ","important": false},
+		{"url":"http://www.sueddeutsche.de/","label":"Süddeutsche Zeitung","description":"sueddeutsche.de ","important": false},
+		{"url":"http://duesseldorf.bild.de/","label":"Bild Düsseldorf","description":"duesseldorf.bild.de ","important": false},
+		{"url":"https://www.zeit.de/index","label":"Die Zeit","description":"zeit.de/index ","important": false},
+		{"url":"https://www.n-tv.de/","label":"N-TV","description":"n-tv.de","important": false}
+	]
+},
+{
+	"category" : "Corona",
+	"order" : 9,
+	"links" : [
+		{"url":"https://www.worldometers.info/coronavirus/","label":"Worldometer","description":"Coronavirus Cases Worldwide","important": false},
+		{"url":"https://bnonews.com/index.php/2020/04/the-latest-coronavirus-cases/","label":"BNO Tracker","description":"Coronavirus Cases Worldwide ","important": false},
+		{"url":"https://covid19info.live/","label":"WuFlu","description":"Coronavirus Cases Worldwide ","important": false},
+		{"url":"https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/","label":"Morgenpost Corona","description":"Coronavirus Cases Germany","important": false}
+	]
+}
+
+
+]
