@@ -108,6 +108,7 @@
 	"links" : [
 		{"url":"https://www.worldometers.info/coronavirus/","label":"Worldometer","description":"Coronavirus Cases Worldwide","important": true},
 		{"url":"https://www.welt.de/","label":"Die Welt","description":"German Newspaper","important": true},
+		{"url":"https://bild.de/","label":"Bild","description":"German Newspaper","important": false},
 		{"url":"https://www.zeit.de/","label":"Zeit Online","description":"German Newspaper","important": false},
 		{"url":"https://www.reuters.com/","label":"Reuters","description":"News Agency","important": false},
 		{"url":"http://enikos.gr/","label":"Enikos","description":"enikos.gr","important": false},
