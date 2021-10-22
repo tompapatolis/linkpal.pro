@@ -7,7 +7,6 @@
 		{"url":"http://localhost/phpmyadmin/","label":"PhpMyAdmin","description":"MySQL Management","important": true},
 		{"url":"https://www.hawkhost.com/","label":"Hawkhost","description":"Hosting Provider","important": false},
 		{"url":"https://tomsnews.net/cpanel","label":"Tomsnews Cpanel","description":"Hosting Management","important": false},
-		{"url":"https://verdin.io/cpanel","label":"Verdin Cpanel","description":"Hosting Management","important": false},
 		{"url":"http://192.168.2.1/","label":"Router","description":"Telekom Router","important": false},
 		{"url":"http://192.168.2.121/","label":"Access Point","description":"TP Link","important": false}
 	]
@@ -17,17 +16,36 @@
 	"order" : 2,
 	"links" : [
 		{"url":"https://tomsnews.io/","label":"tomsnews.io","description":"My Sexy Blog","important": true},
-		{"url":"https://verdin.io/","label":"verdin.io","description":"My Portfolio","important": true},
-		{"url":"https://jsoncontent.com/","label":"JSONcontent","description":"Million Dollar Company","important": true},
+		{"url":"https://tpapatolis.com/","label":"tpapatolis.com","description":"My Portfolio","important": true},
+		{"url":"https://tomsnews.social/","label":"tomsnews.social","description":"Best Social Media on Earth","important": true},
+		{"url":"https://verdin.io/","label":"verdin.io","description":"My Portfolio","important": false},		
 		{"url":"https://links.verdin.io/","label":"JSON Linkpal","description":"links.verdin.io","important": false},
 		{"url":"https://linkpal.tomsnews.net/","label":"Linkpal Pro","description":"Linkpal Greek Edition","important": false}
 	]
 },
 {
-	"category" : "Online Tools",
+	"category" : "Work",
 	"order" : 3,
 	"links" : [
+		{"url":"https://www.deepl.com/en/translator","label":"DeepL","description":"DeepL Translator","important": true},		
+		{"url":"https://banportal-kaoa.de/","label":"banportal-kaoa.de","description":"BAN-Portal New","important": true},
+		{"url":"https://www.bo-instrumente-in-nrw.de/show_page.php?inst=zentrale&go=start&action=&backToZentrale=1","label":"bo-instrumente-in-nrw.de","description":"BAN-Portal Old","important": true},
+		{"url":"https://28264.whserv.de/phpMyAdmin/","label":"PhpMyAdmin","description":"BAN-Portal old","important": false},
+		{"url":"http://intranet.lgh.local/jupgrade/index.php","label":"LGH Intranet","description":"LGH Intranet","important": false},
+		{"url":"https://10.0.5.4:9443/onexportal.html","label":"OneX Portal","description":"OneX Portal","important": false},
+		{"url":"https://www.timeanddate.com/date/durationresult.html?d1=9&m1=7&y1=2021&d2=9&m2=7&y2=2021&h1=9&i1=0&s1=0&h2=17&i2=30&s2=0","label":"Duration Results","description":"Duration Results","important": false},
+		{"url":"http://lgh0008:5272/FrontController?operation=509","label":"Xeams Reporter","description":"Xeams Reporter","important": false}
+
+	]
+},
+{
+	"category" : "Online Tools",
+	"order" : 4,
+	"links" : [
+		{"url":"https://melobytes.gr/el/app/textulcase","label":"Greek Capital to Lowercase","description":"Greek Capital to Lowercase","important": false},				
+		{"url":"https://translate.yandex.com/?lang=en-el","label":"Yandex Translator","description":"Translate English to Greek","important": false},		
 		{"url":"https://squoosh.app/","label":"Squoosh.app","description":"Transform to WebP","important": false},
+		{"url":"https://pencilsketch.imageonline.co/index.php","label":"Pencil Sketch","description":"Convert Pic to Sketch","important": false},		
 		{"url":"https://transfonter.org/","label":"Transfonter","description":"Useful tool to create Font Kits","important": true},
 		{"url":"https://getwaves.io/","label":"Get Waves","description":"Create cool dividers","important": false},
 		{"url":"https://bennettfeely.com/clippy/","label":"Clippy","description":"Create Clip Paths","important": true},
@@ -49,10 +67,11 @@
 },
 {
 	"category" : "Resources",
-	"order" : 4,
+	"order" : 5,
 	"links" : [
 		{"url":"https://pexels.com/","label":"Pexels","description":"Free Photos","important": true},
 		{"url":"https://pixabay.com/","label":"Pixabay","description":"Free Photos","important": true},
+		{"url":"https://www.youtube.com/audiolibrary","label":"YouTube Audio Library","description":"Music & Sound Effects","important": true},		
 		{"url":"https://www.flickr.com/photos/spacex/","label":"SpaceX Photos","description":"SpaceX Flickr","important": true},
 		{"url":"https://unsplash.com/","label":"Unsplash","description":"Unsplash Photos","important": true},
 		{"url":"https://zavoloklom.github.io/material-design-iconic-font/icons.html","label":"Material Iconic","description":"Icon Set Font","important": true},
@@ -80,10 +99,9 @@
 },
 {
 	"category" : "Social Media",
-	"order" : 5,
+	"order" : 6,
 	"links" : [
-		{"url":"https://twitter.com/tpapatolis","label":"Twitter","description":"Tom's Twitter account","important": true},
-		{"url":"https://www.facebook.com/tomsnewsnet","label":"Facebook","description":"Tom's Facebook account","important": false},
+		{"url":"https://twitter.com/tomsnews_","label":"Twitter","description":"Tom's Twitter account","important": true},
 		{"url":"https://github.com/tompapatolis","label":"GitHub","description":"Tom's Github","important": true},
 		{"url":"https://www.facebook.com/verdinlimited/","label":"Verdin Facebook","description":"Verdin Facebook Page","important": false},	
 		{"url":"https://www.deviantart.com/tpapatolis","label":"DeviantArt","description":"Tom's DeviantArt Profile","important": false}
@@ -91,7 +109,7 @@
 },
 {
 	"category" : "Office",
-	"order" : 6,
+	"order" : 7,
 	"links" : [
 		{"url":"https://mail.google.com/","label":"Gmail","description":"My Email","important": true},
 		{"url":"https://docs.google.com/spreadsheets/u/0/","label":"Google Sheets","description":"Google Sheets","important": true},
@@ -104,7 +122,7 @@
 },
 {
 	"category" : "News",
-	"order" : 7,
+	"order" : 8,
 	"links" : [
 		{"url":"https://www.worldometers.info/coronavirus/","label":"Worldometer","description":"Coronavirus Cases Worldwide","important": true},
 		{"url":"https://www.welt.de/","label":"Die Welt","description":"German Newspaper","important": true},
@@ -115,12 +133,15 @@
 		{"url":"https://www.zerohedge.com/","label":"Zero Hedge","description":"Zero Hedge","important": false},
 		{"url":"http://www.businessinsider.com/","label":"Business Insider","description":"businessinsider.com","important": false},
 		{"url":"http://www.cnn.gr/","label":"CNN Greece","description":"CNN Propaganda Greek Edition","important": false},
-		{"url":"https://www.ksipnistere.com/","label":"KsipnisteRe","description":"ksipnistere.com","important": false}
+		{"url":"https://www.ksipnistere.com/","label":"KsipnisteRe","description":"ksipnistere.com","important": false},
+		{"url":"https://www.makeleio.gr/","label":"Makeleio","description":"makeleio.gr","important": false},
+		{"url":"https://crashonline.gr/","label":"CrashOnline","description":"crashonline.gr","important": false},
+		{"url":"https://katohika.gr/","label":"Katohika","description":"katohika.gr","important": false}		
 	]
 },
 {
 	"category" : "Libraries & Frameworks",
-	"order" : 8,
+	"order" : 9,
 	"links" : [
 		{"url":"https://getmdl.io/started/","label":"Material Design Lite","description":"CSS Framework","important": true},
 		{"url":"https://editorjs.io/","label":"Editor JS","description":"JSON Wysiwyg Editor","important": true},
@@ -131,7 +152,7 @@
 },
 {
 	"category" : "Fun & Shopping",
-	"order" : 9,
+	"order" : 10,
 	"links" : [
 		{"url":"https://www.amazon.de/","label":"Amazon","description":"Shop yourself to death","important": true},
 		{"url":"https://www.ebay.de/","label":"Ebay","description":"Shop used crap","important": false},
@@ -151,7 +172,7 @@
 },
 {
 	"category" : "Radios",
-	"order" : 10,
+	"order" : 11,
 	"links" : [
 		{"url":"http://live24.gr/radio/kissfm","label":"Kiss FM 92.9","description":"Great radio in Athens","important": true},
 		{"url":"http://www.e-radio.gr/We-Radio-894-Thessaloniki-i632/live","label":"We Radio 894","description":"Radio in Thessaloniki","important": false}
